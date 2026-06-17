@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>藥師洪正憲｜外用類固醇藥膏強度查詢</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="search-panel" aria-labelledby="app-title">
+        <div>
+          <p class="eyebrow">藥師洪正憲</p>
+          <h1 id="app-title">外用類固醇藥膏強度查詢</h1>
+          <p class="lead">輸入中文或英文商品名、成分名，查詢美國第幾級、中文強度與適合使用部位。</p>
+        </div>
+
+        <form class="search-box" id="search-form">
+          <label for="query">藥膏商品名或成分</label>
+          <div class="search-row">
+            <input id="query" name="query" type="search" autocomplete="off" placeholder="例如：臨得隆、Elomet、hydrocortisone">
+            <button type="submit">查詢</button>
+          </div>
+        </form>
+
+        <div class="quick-actions" aria-label="範例查詢">
+          <button type="button" data-example="hydrocortisone">Hydrocortisone</button>
+          <button type="button" data-example="mometasone">Mometasone</button>
+          <button type="button" data-example="clobetasol">Clobetasol</button>
+          <button type="button" data-example="betamethasone">Betamethasone</button>
+        </div>
+      </section>
+
+      <section class="notice">
+        <strong>用藥安全提醒</strong>
+        本工具提供藥品資訊整理，不取代醫師或藥師建議。臉、眼皮、鼠蹊、腋下、皮膚皺摺與兒童用藥需特別謹慎。
+      </section>
+
+      <section class="follow-panel" aria-label="追蹤與訂閱">
+        <a href="https://www.facebook.com/profile.php?id=100076381257892" target="_blank" rel="noopener noreferrer">追蹤粉絲團</a>
+        <a href="https://www.instagram.com/pharmacisthsien_now/" target="_blank" rel="noopener noreferrer">追蹤 IG</a>
+        <a href="https://pharmacisthsien.kit.com/rxhung01?utm_id=97758_v0_s00_e0_tv0&amp;fbclid=IwY2xjawSfewpleHRuA2FlbQIxMABicmlkETFCM2RUQkJyM0F5ZFpHOXRjc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHriUyKP-Q5P64w8uI8XDDjQ3x_123RgtGZl8VbyRs-YkbV3gQjPYrTeGgOlr_aem_T4pe7mKdaH6JKpEV2dIynQ" target="_blank" rel="noopener noreferrer">訂閱電子報</a>
+      </section>
+
+      <section class="summary-grid" aria-label="分類對照">
+        <div>
+          <span>美國第 1 級</span>
+          <strong>非常強</strong>
+        </div>
+        <div>
+          <span>美國第 2 級</span>
+          <strong>強</strong>
+        </div>
+        <div>
+          <span>美國第 3-5 級</span>
+          <strong>中</strong>
+        </div>
+        <div>
+          <span>美國第 6-7 級</span>
+          <strong>弱</strong>
+        </div>
+      </section>
+
+      <section id="results" class="results" aria-live="polite"></section>
+    </main>
+
+    <script src="data/steroid-potency.js"></script>
+    <script src="data/products.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

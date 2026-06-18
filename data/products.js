@@ -62,6 +62,24 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第016349號",
+    "name_zh": "\"人人\" 貝他每松親水性軟膏",
+    "name_en": "BETASONE CREAM (BETAMETHASONE) \"GCPC\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠瓶裝;;鋁軟管",
+    "drug_category": "",
+    "indication": "皮膚炎、皮膚過敏及其他皮質類固醇具有療效之皮膚疾病",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": false,
+    "other_ingredients": [],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM OF CREAM CONTAINS (1): 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第025717號",
     "name_zh": "\"人人\" 炎可治得乳膏",
     "name_en": "ECONOL-T CREAM \"GCPC\"",
@@ -178,6 +196,46 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第033258號",
+    "name_zh": "\"人人\"倍美舒乳膏",
+    "name_en": "BETAMAZOLE CREAM \"GCPC\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "鋁軟管裝;;塑膠瓶裝",
+    "drug_category": "",
+    "indication": "適用於下皮膚感染的局部治療：紅色毛癬菌、鬚瘡毛癬菌、絮狀表皮癬菌、大小芽胞菌所引起之足癬、股癬、頭癬。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.5 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第037078號",
+    "name_zh": "\"人人\"倍麗絲軟膏",
+    "name_en": "BALINSE OINTMENT \"GCPC\"",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "鋁管裝;;塑膠罐裝",
+    "drug_category": "",
+    "indication": "牛皮癬、慢性異位性皮膚炎、神經性皮膚炎（單純苔癬）、濕疹、扁平苔癬、汗庖、皮脂漏皮膚炎、尋常魚鱗癬等之發炎症狀解除。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "SALICYLIC ACID"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH gram CONTAINS: 0.5 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "內衛藥製字第009852號",
     "name_zh": "\"人人\"氫化可體松軟膏",
     "name_en": "HYDROCORTISONE ACETATE OINTMENT \"GCPC\"",
@@ -229,6 +287,26 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GRAM CONTAINS： 1.000000 MG",
     "potency_class": 4,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第039039號",
+    "name_zh": "\"十全\"癒爾膚乳膏",
+    "name_en": "YuhEeLFu cream \"S.C.\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "鋁管裝;;塑膠罐裝",
+    "drug_category": "",
+    "indication": "足癬、股癬、體癬",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.64 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -448,6 +526,27 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第057894號",
+    "name_zh": "\"中美\"鮮膚力乳膏",
+    "name_en": "Fojacanbo cream \"C.M.\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠瓶裝;;鋁管裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或黴菌所引起之皮膚感染症。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "GENTAMICIN SULFATE",
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains: (eq. to Betamethasone 0.5mg) 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第018798號",
     "name_zh": "\"中國化學\"皮克寧藥膏",
     "name_en": "TRICODEX CREAM \"C.C.P.\"",
@@ -528,6 +627,26 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTANIS: 0.500000 MG",
     "potency_class": 5,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第034883號",
+    "name_zh": "\"井田\"克帶乳膏",
+    "name_en": "CLODAI CREAM \"CHINTENG\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "軟管裝",
+    "drug_category": "",
+    "indication": "足癬、股癬及體癬。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: (0.64MG) 0.50 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -672,6 +791,27 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第045571號",
+    "name_zh": "\"元宙\" 舒怡膚乳膏",
+    "name_en": "FORMEI CREAM \"Y.C.\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠瓶裝;;鋁軟管",
+    "drug_category": "",
+    "indication": "過敏性皮膚病和細菌或黴菌所引起的皮膚病。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH G CONTAINS: 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第045825號",
     "name_zh": "\"元宙\" 黛安膚乳膏",
     "name_en": "DANCE CREAM",
@@ -748,6 +888,64 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 0.500000 MG",
     "potency_class": 1,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第045673號",
+    "name_zh": "\"元福\" 苾克 軟膏",
+    "name_en": "PROBISALIC OINTMENT",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "塑膠瓶裝;;鋁軟管",
+    "drug_category": "",
+    "indication": "慢性異性皮膚炎、神經性皮膚炎(單純苔癬)、牛皮癬、濕疹、扁平苔癬、頭皮皮脂漏皮膚炎、汗皰、尋常性魚鱗癬等炎症狀之解除。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "SALICYLIC ACID"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第045751號",
+    "name_zh": "\"元福\" 撲敏松乳膏",
+    "name_en": "PROMISONE CREAM \"START\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "鋁軟管;;塑膠瓶裝",
+    "drug_category": "",
+    "indication": "異位性皮膚炎、接觸性皮膚炎、神經性皮膚炎、濕疹。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": false,
+    "other_ingredients": [],
+    "strength": "0.643000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.643000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛部藥製字第061084號",
+    "name_zh": "\"元福\"二聯乳膏",
+    "name_en": "Gentesone Cream",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠瓶裝;;積層管裝;;鋁管裝;;塑膠瓶裝",
+    "drug_category": "",
+    "indication": "治療過敏性或發炎支皮膚病；如濕疹、皮膚炎及皮膚搔癢症。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "Each Gram contains: 0.500000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -1053,6 +1251,27 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第038427號",
+    "name_zh": "\"永勝\" 聯美乳膏",
+    "name_en": "RAMIN CREAM \"EVEREST\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠瓶裝;;鋁管裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或黴菌所引起之皮膚感染症",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "GENTAMICIN (AS SULFATE)",
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: (0.64MG) 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第037633號",
     "name_zh": "\"永勝\"友聯乳膏",
     "name_en": "\"EVEREST\" UNION CREAM",
@@ -1126,6 +1345,26 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH TABLET CONTAINS: 0.5 0.500000 MG",
     "potency_class": 1,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第037563號",
+    "name_zh": "\"永勝\"舒膚隆乳膏",
+    "name_en": "SAFELON CREAM \"EVEREST\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠瓶裝;;鋁管裝",
+    "drug_category": "",
+    "indication": "足癬、股癬、體癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: (EQ. Betamethasone.....0.5mg) 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -1268,6 +1507,26 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 10 10.000000 MG",
     "potency_class": 7,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第029574號",
+    "name_zh": "\"生達\"爽吉軟膏",
+    "name_en": "SONGI OINTMENT \"STANDARD\"",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "塑膠瓶裝;;鋁軟管裝",
+    "drug_category": "",
+    "indication": "慢性異位性皮膚炎、神經性皮膚炎（單純苔癬）牛皮癬、濕疹、扁平苔癬、頭皮皮脂漏皮膚炎、汗皰、尋常性魚鱗癬等發炎症狀之解除",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "SALICYLIC ACID"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: (equivalent to 0.5mg of Betamethasone) 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -1525,6 +1784,42 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第032051號",
+    "name_zh": "\"杏輝\" 貝他每壯軟膏０．５公絲／公克（貝皮質醇）",
+    "name_en": "BETAMETHASONE OINTMENT 0.5MG/GM \"SINPHAR\"",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "鋁管裝;;瓶裝",
+    "drug_category": "",
+    "indication": "皮膚炎、皮膚過敏及其他皮質類固醇具有療效之皮膚疾病",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": false,
+    "other_ingredients": [],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第019616號",
+    "name_zh": "\"杏輝\" 貝他每松軟膏",
+    "name_en": "BETAMETHASONE OINTMENT \"SINPHAR\"",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "積層鋁管裝;;鋁管裝;;塑膠罐裝",
+    "drug_category": "",
+    "indication": "皮膚炎、皮膚過敏及其他皮質類固醇具有療效之皮膚疾病",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": false,
+    "other_ingredients": [],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GRAM CONTAINS:(原味) 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第048391號",
     "name_zh": "\"杏輝\" 頓安膚乳膏",
     "name_en": "Metsone Cream 0.1% \"Sinphar\"",
@@ -1576,6 +1871,26 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 0.5 0.500000 MG",
     "potency_class": 1,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第049877號",
+    "name_zh": "“杏輝”必健乳膏",
+    "name_en": "B-Gencin cream“Sinphar”",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "鋁管裝;;塑膠罐裝",
+    "drug_category": "",
+    "indication": "皮膚癬、接觸性皮膚炎、異位性皮膚炎、皮膚溢出性皮膚炎、神經性皮膚炎、剝落性皮膚炎、日曬皮膚炎。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains： 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -1637,6 +1952,26 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第042269號",
+    "name_zh": "\"杏輝\"貝他每麗軟膏",
+    "name_en": "BETASAY OINTMENT \"SINPHAR\"",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "塑膠罐裝;;鋁管裝",
+    "drug_category": "",
+    "indication": "慢性異位性皮膚炎、神經性皮膚炎（單純苔癬）、牛皮癬、濕疹、扁平苔癬、頭皮皮脂漏皮膚炎、汗皰、尋常性魚鱗癬等發炎症狀之解除",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "SALICYLIC ACID"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.64 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第032013號",
     "name_zh": "\"杏輝\"念黴松乳膏",
     "name_en": "CAMISONE CREAM \"SINPHAR\"",
@@ -1676,6 +2011,27 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GRAM CONTAINS: 1.000000 MG",
     "potency_class": 4,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第049422號",
+    "name_zh": "“杏輝”健聯乳膏",
+    "name_en": "Betaclogen Cream“Sinphar”",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠罐裝;;積層鋁管裝;;鋁管裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或黴菌所引起之皮膚感染症。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains： 0.500000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -1819,6 +2175,27 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第044241號",
+    "name_zh": "\"明德\" 皮大夫乳膏",
+    "name_en": "DR.PI.A.F. CREAM \"MEIDER\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠瓶裝;;鋁軟管;;塑膠瓶裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或黴菌所引起之皮膚感染症。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains: 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第036752號",
     "name_zh": "\"明德\" 康麗軟膏",
     "name_en": "CONLEX OINTMENT \"MEIDER\"",
@@ -1924,6 +2301,26 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第032385號",
+    "name_zh": "\"明德\" 膚麗安乳膏",
+    "name_en": "FULIAN CREAM \"MEIDER\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "鋁管裝;;塑膠瓶裝",
+    "drug_category": "",
+    "indication": "足癬、股癬、體癬",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛部藥製字第058142號",
     "name_zh": "\"近江兄弟\"平樂癢液",
     "name_en": "PINLOYEN Solution \"Omi-Brotherhood\"",
@@ -2015,6 +2412,27 @@ window.STEROID_PRODUCTS = [
     "strength": "0.500000",
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第038984號",
+    "name_zh": "\"長安\" 益膚康乳膏",
+    "name_en": "YIH FU KANG CREAM \"C.A\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "軟管裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或黴菌所引起之皮膚感染症",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN SULFATE"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS:(茉莉花香味) 0.500000 MG",
     "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
@@ -2144,6 +2562,46 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第035887號",
+    "name_zh": "\"長安\"速好乳膏",
+    "name_en": "SUHAO CREAM \"C.A.\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "管裝",
+    "drug_category": "",
+    "indication": "足癬、股癬、體癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: (0.64MG)0.5 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第034581號",
+    "name_zh": "\"長安\"速康軟膏",
+    "name_en": "SHUKANG OINTMENT \"C.A.\"",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "管裝",
+    "drug_category": "",
+    "indication": "足癬、股癬、體癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.64 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第032726號",
     "name_zh": "\"長安\"雅可隆乳膏",
     "name_en": "ACOLOUM CREAM \"C.A.\"",
@@ -2161,6 +2619,27 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 1 1.000000 MG",
     "potency_class": 4,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第038762號",
+    "name_zh": "\"長安\"雅可寧軟膏",
+    "name_en": "ARCOLIN CREAM \"C.A.\"",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "鋁軟管",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌所引起之皮膚感染症",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS :(JASMINE OIL) 0.500000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -2400,6 +2879,24 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第048178號",
+    "name_zh": "\"派頓\" 貝德派乳膏",
+    "name_en": "Betapro Cream \"Patron\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠瓶裝;;鋁管裝",
+    "drug_category": "",
+    "indication": "接觸性皮膚炎、異位性皮膚炎、神經性皮膚炎、過敏性皮膚炎、濕疹。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": false,
+    "other_ingredients": [],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains: (as equivalent to betamethasone 0.5mg) 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第047906號",
     "name_zh": "\"派頓\" 呼樂乳膏",
     "name_en": "Furo Cream \"Patron\"",
@@ -2491,6 +2988,27 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "Each gm contains： 1.000000 MG",
     "potency_class": 4,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第048771號",
+    "name_zh": "“派頓”克樂欣乳膏",
+    "name_en": "Clobecin Cream“Patron”",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "鋁軟管;;塑膠瓶裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或黴菌所引起之皮膚感染症。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.643000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains： (eq to Betamethasone─0.5mg) 0.643000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -2631,6 +3149,26 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第035814號",
+    "name_zh": "“約克”膚立美乳膏",
+    "name_en": "FOREVER CREAM \"Y.K.\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠瓶裝(HDPE);;鋁軟管裝",
+    "drug_category": "",
+    "indication": "適用於下列皮膚感染的局部治療：紅色毛癬菌、鬚瘡毛癬菌、絮狀表 皮癬菌、大小芽胞菌所引起之足癬、股癬、頭癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GRAM CONTAINS: 0.5 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第049332號",
     "name_zh": "“約克”膚敏寧乳膏 0.1%",
     "name_en": "Dermone Cream 0.1%“Y.K.”",
@@ -2706,6 +3244,26 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 0.610000 MG",
     "potency_class": 5,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第036765號",
+    "name_zh": "\"美西\"必治安乳膏",
+    "name_en": "PRURINON CREAM \"M.S\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "軟管裝",
+    "drug_category": "",
+    "indication": "足癬、股癬、體癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GRAM CONTAINS: (eq to betamethasone base 0.5mg) 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -3102,6 +3660,47 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第035865號",
+    "name_zh": "“華貿”愛膚寧乳膏",
+    "name_en": "DIPRODERM CREAM“F.M.”",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "軟管裝;;罐裝",
+    "drug_category": "",
+    "indication": "皮膚癬、接觸性皮膚炎、異位性皮膚炎、皮脂溢出性皮膚炎、神經性 皮膚炎、剝落性皮膚炎、日晒皮膚炎。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.64 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第039770號",
+    "name_zh": "“華貿”優利膚乳膏",
+    "name_en": "BETAMOX CREAM“F.M.”",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "罐裝;;軟管裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或徽菌所引起之皮膚感染症",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.643000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS:(迷迭香香味) 0.643 0.643000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第004649號",
     "name_zh": "“華興”力卡朗軟膏",
     "name_en": "LI KA LANG OINTMENT“H.S.”",
@@ -3137,6 +3736,27 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 0.5 0.500000 MG",
     "potency_class": 1,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第037511號",
+    "name_zh": "\"華興\"康膚寧乳膏",
+    "name_en": "C.G.B. CREAM \"H.S.\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "軟管裝;;罐裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或徽菌所引起之皮膚感染症。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.643000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.643 0.643000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -3213,6 +3833,44 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 1 1.000000 MG",
     "potency_class": 4,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛部藥製字第059289號",
+    "name_zh": "\"黃氏\"悠黴乳膏",
+    "name_en": "Clortrima Cream \"H.S.\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠罐裝;;軟管裝",
+    "drug_category": "",
+    "indication": "足癬、股癬、體癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "Each Gram contains: 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第031086號",
+    "name_zh": "\"塩野義\"舒膚通膠液(貝他每松二丙酸鹽)",
+    "name_en": "SEPTON SOL (BETAMETHASONE DIPROPIONATE) \"SHIONOGI\"",
+    "aliases": [],
+    "dosage_form": "外用液劑",
+    "package": "瓶裝",
+    "drug_category": "",
+    "indication": "濕疹、皮膚炎群（進行性指掌角皮症、威達耳氏ＶＩＤＡＬ？Ｓ苔癬）、乾癬掌蹠膿？疹、紅皮症",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": false,
+    "other_ingredients": [],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.64 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -3330,6 +3988,42 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第032217號",
+    "name_zh": "\"瑞士\"欣欣乳膏０．５毫克（貝皮質醇）",
+    "name_en": "SHIN-SHIN CREAM \"SWISS\" 0.5MG (BETAMETHASONE)",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠罐裝;;鋁管裝",
+    "drug_category": "",
+    "indication": "接觸性皮膚炎、異位性皮膚炎、神經性皮膚炎、剝落性皮膚炎、日曬皮膚炎、皮脂溢出性皮炎",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": false,
+    "other_ingredients": [],
+    "strength": "0.643000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.643 0.643000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第032505號",
+    "name_zh": "\"瑞士\"欣欣軟膏５００微公克/公克（貝皮質醇）",
+    "name_en": "SHIN-SHIN OINTMENT. 500MCG/GM \"SWISS\"(BETAMETHASONE)",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "管裝;;罐裝",
+    "drug_category": "",
+    "indication": "濕疹、皮膚炎群（進行性指掌角皮症、包含威達耳氏苔癬）、乾癬、掌蹠膿疱症、紅皮症",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": false,
+    "other_ingredients": [],
+    "strength": "0.643000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.643MG 0.643000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第020751號",
     "name_zh": "\"瑞士\"爽朗優乳膏",
     "name_en": "SONLON-U CREAM \"SWISS BRAND\"",
@@ -3442,6 +4136,24 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第034915號",
+    "name_zh": "\"瑞安\"倍膚爽擦劑０．５毫克/公克（貝皮質醇）",
+    "name_en": "Betasone Lotion 0.5mg/g \"Purzer\" (Betamethasone)",
+    "aliases": [],
+    "dosage_form": "外用液劑",
+    "package": "瓶裝",
+    "drug_category": "",
+    "indication": "濕疹、皮膚炎群（進行性指掌角皮症、威達耳氏ＶＩＤＡＬ'Ｓ苔癬）、乾癬、掌蹠庖疹、紅皮症。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": false,
+    "other_ingredients": [],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GRAM CONTAINS: 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第016862號",
     "name_zh": "\"裕心\"得膚克親水軟膏（氟欣諾能）",
     "name_en": "TOPCORT CREAM \"RICHEVER\"",
@@ -3517,6 +4229,24 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 10 10.000000 MG",
     "potency_class": 7,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第037069號",
+    "name_zh": "\"壽元\" 倍達乳膏０．５毫克/公克",
+    "name_en": "BETA CREAM 0.5MG/GM \"S.Y.\" (BETAMETHASONE)",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠容器裝;;管裝",
+    "drug_category": "",
+    "indication": "濕疹、皮膚炎群（進行性指掌角皮症、包含威達耳氏苔癬）、乾癬掌蹠膿症、紅皮症。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": false,
+    "other_ingredients": [],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS:(櫻花香) (0.64) 0.500000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -3696,6 +4426,27 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第049842號",
+    "name_zh": "“福元”欣三聯乳膏",
+    "name_en": "Three-unite Cream“F.Y.”",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠瓶裝;;鋁軟管;;塑膠瓶裝;;塑膠軟管裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或黴菌所引起之皮膚感染症。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "GENTAMICIN (AS SULFATE)",
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains： 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第058023號",
     "name_zh": "\"福元\"倍若宜乳膏",
     "name_en": "Berolin Cream \"F.Y.\"",
@@ -3812,6 +4563,27 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 1.0 1.000000 MG",
     "potency_class": 5,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第044117號",
+    "name_zh": "\"衛達\" 可必淨乳膏",
+    "name_en": "CLOBEGEN CREAM \"WEIDAR\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠罐裝;;鋁管裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或黴菌所引起之皮膚感染症。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN SULFATE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: (Equiv. to Betamethasone.....0.5mg) 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -4249,6 +5021,27 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第038184號",
+    "name_zh": "三聯乳膏",
+    "name_en": "TRIDERMSONE CREAM",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "管裝;;塑膠容器裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或徽菌所引起之皮膚感染症。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS:(有香料) 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第031657號",
     "name_zh": "允消膚帝乳膏",
     "name_en": "WINSOLVE ZOYCE CREAM",
@@ -4630,6 +5423,26 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第013647號",
+    "name_zh": "甘德松親水性軟膏",
+    "name_en": "GENTASONE CREAM",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "塑膠瓶裝;;積層鋁塑軟管裝;;塑膠瓶裝;;鋁軟管裝",
+    "drug_category": "",
+    "indication": "治療過敏性及發炎性之皮膚病，如濕疹、皮膚搔癢症及皮膚炎",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "1.EACH GM CONTAINS: 0.5 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第023674號",
     "name_zh": "皮可爽乳膏",
     "name_en": "ECONSONE CREAM",
@@ -4769,6 +5582,26 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GRAM CONTAINS: 1 1.000000 MG",
     "potency_class": 4,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第032882號",
+    "name_zh": "守膚軟膏",
+    "name_en": "SALIC OINTMENT",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "瓶裝;;管裝",
+    "drug_category": "",
+    "indication": "慢性異位性皮膚炎、神經性皮膚炎（單純苔癬）牛皮癬、濕疹、扁平苔癬、頭皮皮脂漏皮膚炎、汗皰、尋常性魚鱗癬等發炎症狀之解除。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "SALICYLIC ACID"
+    ],
+    "strength": "",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: (0.64MG)0.5 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -4918,6 +5751,26 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第039077號",
+    "name_zh": "百賜安乳膏",
+    "name_en": "BESTAN CREAM \"C.F.T.\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠罐裝;;鋁管裝",
+    "drug_category": "",
+    "indication": "足癬、股癬、體癬",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GRAM CONTAINS: 0.64 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第040796號",
     "name_zh": "艾美隆乳膏",
     "name_en": "TRIMALON CREAM",
@@ -4956,6 +5809,27 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第043920號",
+    "name_zh": "克皮癬乳膏",
+    "name_en": "CLOBEGEN CREAM",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠罐裝;;鋁軟管",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或黴菌所引起之皮膚感染症。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.643000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GRAM CONTAINS: 0.643 0.643000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第034966號",
     "name_zh": "克洛索０．０５％乳膏（可洛貝他索丙酸）〝成大〞",
     "name_en": "CLOSOL 0.05% CREAM (CLOBETASOL PROPIONATE) \"CHEN TA\"",
@@ -4989,6 +5863,46 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 0.5 0.500000 MG",
     "potency_class": 1,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛部藥輸字第026712號",
+    "name_zh": "克樂膚乳膏",
+    "name_en": "Clotrisone Cream",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "軟管裝",
+    "drug_category": "",
+    "indication": "適用於下列皮膚感染的局部治療：由紅色毛癬菌（TRICHOPHYTON RUB RUM）鬚瘡毛癬菌（TRICHOPHYTON MENTAGROPHYTES）絮狀表皮癬菌（EPIDERMOPHYTON FLOCCOSUM）大小芽胞菌（MICROSPORON CANIS）所引起之足癬、股癬、頭癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE MICRONIZED"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "Each gram contains: 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第037067號",
+    "name_zh": "克膚炎乳膏",
+    "name_en": "CLOFUSONE CREAM",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "罐裝;;管裝",
+    "drug_category": "",
+    "indication": "適用於下皮膚感染的局部治療：紅色毛癬菌、鬚瘡毛癬菌、絮狀表皮癬菌、大小芽胞菌所引起之足癬、股癬、頭癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "ECAH GM CNOTAINS: 0.64 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -5031,6 +5945,46 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛部藥製字第058104號",
+    "name_zh": "克適保軟膏",
+    "name_en": "Calfine Ointment",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "鋁軟管",
+    "drug_category": "",
+    "indication": "尋常性牛皮癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CALCIPOTRIOL"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains: (Equiv. to Betamethasone 0.5mg) 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第037580號",
+    "name_zh": "克癬乳膏",
+    "name_en": "CLOSONE CREAM",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠容器裝;;管裝",
+    "drug_category": "",
+    "indication": "足癬、股癬、體癬．",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.64 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第026968號",
     "name_zh": "克癬寧乳膏",
     "name_en": "KASANLIN CREAM",
@@ -5048,6 +6002,26 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 1 1.000000 MG",
     "potency_class": 4,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第043215號",
+    "name_zh": "克黴速乳膏〝信隆〞",
+    "name_en": "CLOBE CREAM \"S.L.\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "罐裝;;鋁管裝",
+    "drug_category": "",
+    "indication": "足癬、股癬、體癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.64 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -5381,6 +6355,46 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第050035號",
+    "name_zh": "貝他膚軟膏",
+    "name_en": "Betacylic Ointment",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "塑膠瓶裝;;鋁軟管",
+    "drug_category": "",
+    "indication": "慢性異位性皮膚炎、神經性皮膚炎(單純苔蘚)、牛皮癬、濕疹、扁平苔蘚、頭皮皮脂漏皮膚炎、汗皰、尋常性魚鱗癬等發炎症狀之解除。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "SALICYLIC ACID"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains： 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第045349號",
+    "name_zh": "貝克軟膏",
+    "name_en": "BESALIC OINTMENT",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "鋁軟管;;塑膠瓶裝",
+    "drug_category": "",
+    "indication": "牛皮癬、慢性異位性皮膚炎、神經性皮膚炎(單純苔癬)、濕疹扁平苔癬、汗庖、皮脂漏皮膚炎、尋常魚鱗癬等之發炎症狀解除。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "SALICYLIC ACID"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第042798號",
     "name_zh": "貝若菲液1毫克/公撮",
     "name_en": "BENOVATE SOLUTION 1MG/ML",
@@ -5396,6 +6410,84 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH ML CONTAINS: (1.21MG) 1.000000 MG",
     "potency_class": 5,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第045341號",
+    "name_zh": "貝迪乳膏",
+    "name_en": "BADINE CREAM",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠瓶裝;;鋁軟管",
+    "drug_category": "",
+    "indication": "皮膚炎、皮膚過敏及其他皮質類固醇具有療效之皮膚疾病。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "WATER PURIFIED ( EQ TO AQUEOUS PURIFIED OR PURIFIED WATER )"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "(原味) 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第045249號",
+    "name_zh": "貝迪軟膏",
+    "name_en": "BADINE OINTMENT",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "鋁軟管;;塑膠瓶裝",
+    "drug_category": "",
+    "indication": "皮膚炎、皮膚過敏及其他皮質類固醇具有療效之皮膚疾病。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": false,
+    "other_ingredients": [],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第048692號",
+    "name_zh": "貝特沙軟膏",
+    "name_en": "Betasa Ointment",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "塑膠瓶裝;;鋁軟管",
+    "drug_category": "",
+    "indication": "牛皮癬、慢性異位性皮膚炎、神經性皮膚炎(單純苔癬)、扁平苔癬、濕疹、汗？、皮脂漏皮膚炎、尋常性魚鱗癬等之發炎症狀解除。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "SALICYLIC ACID"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains： eq. to Betamethasone 0.5 mg 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第035055號",
+    "name_zh": "貝莎克軟膏",
+    "name_en": "BECYLIC OINTMENT",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "軟管裝;;塑膠瓶裝",
+    "drug_category": "",
+    "indication": "慢性異位性皮膚炎、神經性皮膚炎（單純苔癬）牛皮癬、濕疹、扁平苔癬、頭皮皮脂漏皮膚炎、汗皰、尋常性魚鱗癬等發炎症狀之解除。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "SALICYLIC ACID"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAION: 0.64 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -5416,6 +6508,26 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM OF OINTMENT CONTAINS: 1 1.000000 MG",
     "potency_class": 5,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第036963號",
+    "name_zh": "貝膚適乳膏",
+    "name_en": "BENCOGEN CREAM",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠容器裝;;管裝",
+    "drug_category": "",
+    "indication": "皮膚癬、接觸性皮膚炎、異位性皮膚炎、皮膚溢出性皮膚炎、神經性皮膚炎、剝落性皮 膚炎、日曬皮膚炎。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "GENTAMYCIN (AS SULFATE)"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS:(無香料含薄荷) (EQ. TO BETAMETHASONE 0.5MG) 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -5601,6 +6713,47 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第031096號",
+    "name_zh": "易得安濕癬乳膏",
+    "name_en": "VIGORDONOR CREAM \"WINSTON\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "鋁管裝;;塑膠罐裝;;積層管裝",
+    "drug_category": "",
+    "indication": "足癬、股癬及體癬",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GRAM CONTAINS: 0.5 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第050085號",
+    "name_zh": "易得寧乳膏",
+    "name_en": "Yidening Cream",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠瓶裝;;鋁管裝;;積層管裝",
+    "drug_category": "",
+    "indication": "過敏性皮膚病和細菌或黴菌所引起的皮膚感染症。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "Each Gram Contains： 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第048746號",
     "name_zh": "易麗膚泡沫液",
     "name_en": "Belux Foaming Solutiom",
@@ -5696,6 +6849,48 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 0.5 0.500000 MG",
     "potency_class": 5,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第049710號",
+    "name_zh": "治菌好親水性乳膏",
+    "name_en": "Sohouo Hydrophilic Cream",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠瓶裝;;鋁軟管;;塑膠瓶裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或黴菌所引起之皮膚感染症。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.643000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains： (eq. to Betamethasone 0.5mg) 0.643000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥輸字第025103號",
+    "name_zh": "治膚康乳膏",
+    "name_en": "Tamicort Cream",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "鋁管裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚和細菌或黴菌所引起之皮膚病感染症。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN SULFATE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains: (eq. to Betamethasone 0.5mg) 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -5922,6 +7117,26 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥輸字第022938號",
+    "name_zh": "帝普健乳膏",
+    "name_en": "DIPROGENTA CREAM",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "鋁軟管裝",
+    "drug_category": "",
+    "indication": "皮膚癬、接觸性皮膚炎、異位性皮膚炎、皮膚溢出性皮膚炎、神經性皮膚炎、剝落性皮膚炎、日曬皮膚炎。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GRAM CONTAINS: 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛部藥製字第059264號",
     "name_zh": "柔緹淨乳膏",
     "name_en": "Ucort Cream",
@@ -6039,6 +7254,27 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第043621號",
+    "name_zh": "美西吉乳膏",
+    "name_en": "B.C.G. CREAM",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠瓶裝;;鋁管裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或黴菌所引起之皮膚感染症。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "無香料含薄荷EACH GM CONTAINS: 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第043962號",
     "name_zh": "美姬乳膏",
     "name_en": "B G CREAM",
@@ -6130,6 +7366,47 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 0.500000 MG",
     "potency_class": 1,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第045289號",
+    "name_zh": "倍立克軟膏",
+    "name_en": "BETASALIC OINTMENT",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "塑膠瓶裝;;鋁軟管",
+    "drug_category": "",
+    "indication": "慢性異位性皮膚炎、神經性皮膚炎、(單純苔癬)、牛皮癬、濕疹、扁平苔癬、頭皮皮脂漏皮膚炎、汗皰、尋常性魚鱗癬等發炎症狀之解除。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "SALICYLIC ACID"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GRAM CONTAINS: 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第049652號",
+    "name_zh": "倍克健乳膏",
+    "name_en": "Trisec Cream",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "鋁軟管;;塑膠瓶裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或黴菌所引起之皮膚感染症。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "Each gram contains： 0.500000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -6537,6 +7814,27 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第043003號",
+    "name_zh": "祛膚敏乳膏〝溫士頓〞",
+    "name_en": "CHU-FU CREAM \"WINSTON\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠罐裝;;鋁管裝;;塑膠罐裝;;塑膠軟管裝;;塑膠罐裝;;積層管裝",
+    "drug_category": "",
+    "indication": "過敏性皮膚病和細菌或黴菌所引起的皮膚感染症。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GRAM CONTAINS: 0.5 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第024253號",
     "name_zh": "祛黴速乳膏",
     "name_en": "CHUMEISU Cream",
@@ -6614,6 +7912,26 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 10 10.000000 MG",
     "potency_class": 7,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第032319號",
+    "name_zh": "健特膚乳膏",
+    "name_en": "GENTADERM CREAM",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "鋁管裝;;塑膠瓶裝;;鋁塑管裝",
+    "drug_category": "",
+    "indication": "皮膚癬、接觸性皮膚炎、異位性皮膚炎、皮膚溢出性皮膚炎、神經性皮膚炎、剝落性皮膚炎、日晒皮膚炎",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GRAM CONTAINS: 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -6764,6 +8082,27 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第050094號",
+    "name_zh": "康黴淨乳膏",
+    "name_en": "Contrizol Cream",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "鋁管裝;;塑膠瓶裝",
+    "drug_category": "",
+    "indication": "治療敏感性皮膚病和細菌或黴菌所引起之皮膚感染症。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE",
+      "GENTAMICIN (AS SULFATE)"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains： (Equiv. to Betamethasone 0.5mg ) 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥輸字第022648號",
     "name_zh": "得克膚軟膏",
     "name_en": "DERMACOMBIN CREAM",
@@ -6862,6 +8201,46 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛部藥製字第058603號",
+    "name_zh": "得益淨軟膏",
+    "name_en": "Daichiu ointment",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "軟管裝",
+    "drug_category": "",
+    "indication": "尋常性牛皮癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CALCIPOTRIOL HYDRATE"
+    ],
+    "strength": "0.643000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains: (eq. to Betamethasone 0.5mg) 0.643000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛部藥製字第058409號",
+    "name_zh": "得益淨凝膠",
+    "name_en": "Daichiu gel",
+    "aliases": [],
+    "dosage_form": "外用凝膠劑",
+    "package": "軟管裝",
+    "drug_category": "",
+    "indication": "治療頭皮牛皮癬 治療非頭皮部位之輕度至中度尋常性牛皮癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CALCIPOTRIOL HYDRATE"
+    ],
+    "strength": "0.643000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains: (Betamethasone 0.5mg) 0.643000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "內衛藥製字第001602號",
     "name_zh": "得膚欣軟膏",
     "name_en": "DIFUCIN OINTMENT",
@@ -6879,6 +8258,26 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS: 0.25 0.250000 MG",
     "potency_class": 6,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥輸字第023936號",
+    "name_zh": "得膚寶軟膏劑",
+    "name_en": "DAIVOBET OINTMENT",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "鋁軟管",
+    "drug_category": "",
+    "indication": "尋常性牛皮癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CALCIPOTRIOL HYDRATE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS： 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -6980,6 +8379,26 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第035181號",
+    "name_zh": "悠樂膚乳膏",
+    "name_en": "UTRASONE CREAM",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠罐裝;;軟管裝",
+    "drug_category": "",
+    "indication": "適用於下列皮膚感染的局部治療：由紅色毛癬菌、鬚瘡毛癬菌、絮狀表皮癬菌、大小芽胞菌所引起之足癬、股癬、頭癬。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GRAM CONITAINS: 0.5 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第046542號",
     "name_zh": "敏怡軟膏 0.1%",
     "name_en": "MINYEAR OINTMENT 0.1%",
@@ -7035,6 +8454,42 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "Each gm contains: 1.200000 MG",
     "potency_class": 5,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第044969號",
+    "name_zh": "敏撲寧乳膏0.5毫克/公克",
+    "name_en": "CIPROSONE CREAM 0.5MG/GM",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "塑膠瓶裝;;鋁軟管;;積層鋁塑軟管裝",
+    "drug_category": "",
+    "indication": "接觸性皮膚炎、異位性皮膚炎(過敏性皮膚炎)、神經性皮膚炎、溼疹。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": false,
+    "other_ingredients": [],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "Each gram contains:(無添加香料) 0.500000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第045245號",
+    "name_zh": "敏撲寧軟膏0.5毫克/公克",
+    "name_en": "CIPROSONE OINTMENT 0.5MG/GM",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "塑膠罐裝;;鋁管裝",
+    "drug_category": "",
+    "indication": "皮膚炎、皮膚過敏及其他皮質類固醇具有療效之皮膚疾病。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": false,
+    "other_ingredients": [],
+    "strength": "0.500000",
+    "strength_unit": "MG",
+    "strength_description": "原味 0.500000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -7169,6 +8624,26 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "Each gm contains: 0.500000 MG",
     "potency_class": 1,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第051713號",
+    "name_zh": "莎莉霜軟膏",
+    "name_en": "Salisone Ointment",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "鋁軟管;;塑膠瓶裝",
+    "drug_category": "",
+    "indication": "慢性異位性皮膚炎、神經性皮膚炎(單純苔癬)、牛皮癬、濕疹、扁平苔癬、頭皮皮脂漏皮膚炎、汗皰、尋常性魚鱗癬等發炎症狀之解除。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "SALICYLIC ACID"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "每克中含有： (eq. to Betamethasone 0.5mg) 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -7361,6 +8836,26 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS (有香料) 0.500000 MG",
     "potency_class": 1,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第048276號",
+    "name_zh": "無花乾癬軟膏",
+    "name_en": "BECANEX Ointment",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "塑膠瓶裝;;鋁管裝",
+    "drug_category": "",
+    "indication": "尋常性牛皮癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CALCIPOTRIOL"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains: 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -7574,6 +9069,26 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第043853號",
+    "name_zh": "新美乳膏",
+    "name_en": "CB CREAM",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "鋁管裝;;塑膠瓶裝",
+    "drug_category": "",
+    "indication": "足癬、股癬、體癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS:(無香料含薄荷配方) (eq. to Betamethasone 0.5 mg) 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第010221號",
     "name_zh": "溫刻通水溶性軟膏",
     "name_en": "WINCORT CREAM",
@@ -7710,6 +9225,26 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第043327號",
+    "name_zh": "寧而寧乳膏〝成大〞",
+    "name_en": "NINERLNIN CREAM \"CHEN TA\"",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "瓶裝;;鋁管裝",
+    "drug_category": "",
+    "indication": "足癬、股癬、體癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第027667號",
     "name_zh": "福將親水性軟膏",
     "name_en": "FOURACT CREAM",
@@ -7809,6 +9344,26 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "Each Gm contains: (eq. to Betamethasone.....0.5mg) 0.600000 MG",
     "potency_class": 5,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第034128號",
+    "name_zh": "樂利康乳膏",
+    "name_en": "CLOTRISONE CREAM",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "鋁管裝;;塑膠瓶裝",
+    "drug_category": "",
+    "indication": "足癬、股癬、體癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS:(有香料) (EQ. TO BETAMETHASONE 0.5MG) 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
@@ -8723,6 +10278,26 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛署藥製字第037162號",
+    "name_zh": "寶膚寧乳膏",
+    "name_en": "DERMALIN CREAM",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "罐裝;;軟管裝",
+    "drug_category": "",
+    "indication": "適用於下列皮膚感染的局部治療：由紅色癬菌（ＴＲＩＣＨＯＰＨＹＴＯＮ ＲＥＢＲＵＭ）鬚瘡毛廯菌（ＴＲＩＣＨＯＰＨＹＴＯＮ ＭＥＮＴＡＧＲＯＰＨＹＴＥＳ）、絮狀表皮癬菌（ＥＰＩＤＥＲＭＯＰＨＹＴＯＮ ＦＬＯＣＣＯＳＵＭ）、大小芽胞菌（ＭＩＣＲ ＯＳＰＯＲＵＭ ＣＡＮＩＳ）所引起之足癬、股癬、頭癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "無香料含薄荷 (eq to betamethasone 05mg) 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第041336號",
     "name_zh": "鬪雞富力康親水性乳膏",
     "name_en": "Douji Fulikang Cream",
@@ -8839,6 +10414,46 @@ window.STEROID_PRODUCTS = [
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {
+    "license_no": "衛部藥製字第060607號",
+    "name_zh": "癬能克軟膏",
+    "name_en": "Psoracal Ointment",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "塑膠罐裝",
+    "drug_category": "",
+    "indication": "尋常性牛皮癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "calcipotriol monohydrate"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "Each gm contains: (eq. to Betamethasone.....0.5mg) 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛部藥製字第058367號",
+    "name_zh": "癬寶軟膏",
+    "name_en": "Calpobet Ointment",
+    "aliases": [],
+    "dosage_form": "軟膏劑",
+    "package": "鋁軟管",
+    "drug_category": "",
+    "indication": "尋常性牛皮癬。",
+    "ingredient": "BETAMETHASONE DIPROPIONATE",
+    "is_combination": true,
+    "other_ingredients": [
+      "CALCIPOTRIOL"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "Each gram contains: (eq. to Betamethasone 0.5mg) 0.640000 MG",
+    "potency_class": 2,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
     "license_no": "衛署藥製字第026769號",
     "name_zh": "黴可康乳膏",
     "name_en": "MICOCORT CREAM",
@@ -8856,6 +10471,26 @@ window.STEROID_PRODUCTS = [
     "strength_unit": "MG",
     "strength_description": "EACH GM CONTAINS; 10 10.000000 MG",
     "potency_class": 7,
+    "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+  },
+  {
+    "license_no": "衛署藥製字第036498號",
+    "name_zh": "黴適乳膏",
+    "name_en": "AZOL-BETA CREAM",
+    "aliases": [],
+    "dosage_form": "乳膏劑",
+    "package": "管裝",
+    "drug_category": "",
+    "indication": "足癬、股癬、體癬。",
+    "ingredient": "BETAMETHASONE (AS DIPROPIONATE)",
+    "is_combination": true,
+    "other_ingredients": [
+      "CLOTRIMAZOLE"
+    ],
+    "strength": "0.640000",
+    "strength_unit": "MG",
+    "strength_description": "EACH GM CONTAINS: 0.64 0.640000 MG",
+    "potency_class": 2,
     "source": "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
   },
   {

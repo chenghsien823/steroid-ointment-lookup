@@ -109,7 +109,7 @@ function clean(value) {
 function loadPotencyLookup(rows) {
   const lookup = new Map();
   for (const row of rows) {
-    const names = [row.ingredient, ...(row.aliases || [])].map(normalize).filter(Boolean);
+    const names = [row.ingredient, ...(row.aliases || [])].map((name) => String(name || "").toLowerCase().normalize("NFKC").trim()).filter(Boolean);
     for (const name of names) {
       if (!lookup.has(name)) {
         lookup.set(name, []);

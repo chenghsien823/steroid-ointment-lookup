@@ -5,6 +5,7 @@
   const input = document.querySelector("#query");
   const results = document.querySelector("#results");
   const exampleButtons = document.querySelectorAll("[data-example]");
+  let hasUserSearched = false;
 
   const classMeta = {
     1: { zh: "非常強", note: "最強" },
@@ -196,10 +197,30 @@
   }
 
   function renderEmpty(message) {
-    results.innerHTML = `<div class="empty-state">${escapeHtml(message)}</div>`;
+    results.innerHTML = `
+      <div class="results-heading">
+        <span>${hasUserSearched ? "搜尋結果" : "準備查詢"}</span>
+        <strong>${hasUserSearched ? "查無符合資料" : "請輸入關鍵字"}</strong>
+      </div>
+      <div class="empty-state">${escapeHtml(message)}</div>
+    `;
+    focusResults();
+  }
+
+  function focusResults() {
+    if (!hasUserSearched) {
+      return;
+    }
+    results.classList.remove("results-highlight");
+    window.requestAnimationFrame(() => {
+      results.classList.add("results-highlight");
+      results.scrollIntoView({ behavior: "smooth", block: "start" });
+      window.setTimeout(() => results.classList.remove("results-highlight"), 1000);
+    });
   }
 
   function search(query) {
+    hasUserSearched = true;
     const normalized = normalize(query);
     if (normalized.length < 2) {
       renderEmpty("請輸入至少 2 個字元。可輸入中文商品名、英文商品名或成分名。");
@@ -217,7 +238,14 @@
       return;
     }
 
-    results.innerHTML = matches.map(renderProduct).join("");
+    results.innerHTML = `
+      <div class="results-heading">
+        <span>搜尋結果</span>
+        <strong>找到 ${matches.length} 筆</strong>
+      </div>
+      ${matches.map(renderProduct).join("")}
+    `;
+    focusResults();
   }
 
   form.addEventListener("submit", (event) => {

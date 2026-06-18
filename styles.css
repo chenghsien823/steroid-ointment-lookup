@@ -207,6 +207,33 @@ h1 {
 .results {
   display: grid;
   gap: 14px;
+  scroll-margin-top: 18px;
+  border-radius: 8px;
+  transition: background-color 0.35s ease, box-shadow 0.35s ease;
+}
+
+.results-highlight {
+  background: rgba(255, 237, 213, 0.78);
+  box-shadow: 0 0 0 8px rgba(255, 237, 213, 0.78);
+}
+
+.results-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 4px 2px;
+}
+
+.results-heading span {
+  color: var(--orange-dark);
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.results-heading strong {
+  color: var(--text);
+  font-size: 20px;
 }
 
 .result-card {
@@ -363,5 +390,11 @@ h1 {
 
   .potency-badge {
     width: 100%;
+  }
+
+  .results-heading {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 2px;
   }
 }

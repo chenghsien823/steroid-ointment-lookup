@@ -164,7 +164,9 @@ h1 {
   background: var(--surface);
   color: var(--blue);
   font-weight: 700;
+  line-height: 1.35;
   text-decoration: none;
+  text-align: center;
 }
 
 .follow-panel a:focus,
@@ -396,5 +398,11 @@ h1 {
     align-items: flex-start;
     flex-direction: column;
     gap: 2px;
+  }
+
+  .follow-panel a {
+    width: 100%;
+    min-height: 46px;
+    padding: 10px 14px;
   }
 }

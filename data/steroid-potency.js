@@ -52,6 +52,34 @@ window.STEROID_POTENCY = [
     "source": "AAFP 2021 potency table"
   },
   {
+    "ingredient": "fluticasone propionate",
+    "aliases": [
+      "fluticasone",
+      "fluticosone",
+      "fluticosone propionate"
+    ],
+    "min_mg_per_g": 0.04,
+    "max_mg_per_g": 0.06,
+    "class": 3,
+    "label_en": "Upper-mid",
+    "strength_zh": "中",
+    "source": "AAFP 2021 potency table"
+  },
+  {
+    "ingredient": "fluticasone propionate",
+    "aliases": [
+      "fluticasone",
+      "fluticosone",
+      "fluticosone propionate"
+    ],
+    "min_mg_per_g": 0.4,
+    "max_mg_per_g": 0.6,
+    "class": 5,
+    "label_en": "Lower-mid",
+    "strength_zh": "中",
+    "source": "AAFP 2021 potency table"
+  },
+  {
     "ingredient": "triamcinolone acetonide",
     "aliases": [
       "triamcinolone",

@@ -249,6 +249,42 @@ async function main() {
 
   const products = [];
   const seen = new Set();
+  function pushProduct({ license, ingredient, ingredientName, otherIngredients = [], potency, sourceNote }) {
+    const licenseNo = license["許可證字號"];
+    const key = [
+      licenseNo,
+      normalize(ingredientName),
+      clean(ingredient["含量"]),
+      clean(ingredient["含量單位"]),
+      clean(ingredient["含量描述"]),
+      sourceNote
+    ].join("|");
+    if (seen.has(key)) {
+      return false;
+    }
+    seen.add(key);
+
+    products.push({
+      license_no: clean(licenseNo),
+      name_zh: clean(license["中文品名"]),
+      name_en: clean(license["英文品名"]),
+      aliases: [],
+      dosage_form: clean(license["劑型"]),
+      package: clean(license["包裝"]),
+      drug_category: clean(license["藥品類別"]),
+      indication: clean(license["適應症"]),
+      ingredient: ingredientName,
+      is_combination: otherIngredients.length > 0,
+      other_ingredients: otherIngredients,
+      strength: clean(ingredient["含量"]),
+      strength_unit: clean(ingredient["含量單位"]),
+      strength_description: clean([ingredient["處方標示"], ingredient["含量描述"], ingredient["含量"], ingredient["含量單位"]].filter(Boolean).join(" ")),
+      potency_class: potency.class,
+      source: sourceNote
+    });
+    return true;
+  }
+
   for (const license of licenses) {
     const licenseNo = license["許可證字號"];
     const matchedIngredients = ingredientsByLicense.get(licenseNo) || [];
@@ -264,36 +300,33 @@ async function main() {
         continue;
       }
 
-      const key = [
-        licenseNo,
-        normalize(ingredientName),
-        clean(ingredient["含量"]),
-        clean(ingredient["含量單位"]),
-        clean(ingredient["含量描述"])
-      ].join("|");
-      if (seen.has(key)) {
-        continue;
-      }
-      seen.add(key);
-
-      products.push({
-        license_no: clean(licenseNo),
-        name_zh: clean(license["中文品名"]),
-        name_en: clean(license["英文品名"]),
-        aliases: [],
-        dosage_form: clean(license["劑型"]),
-        package: clean(license["包裝"]),
-        drug_category: clean(license["藥品類別"]),
-        indication: clean(license["適應症"]),
-        ingredient: ingredientName || license["主成分略述"],
-        is_combination: otherIngredients.length > 0,
-        other_ingredients: otherIngredients,
-        strength: clean(ingredient["含量"]),
-        strength_unit: clean(ingredient["含量單位"]),
-        strength_description: clean([ingredient["處方標示"], ingredient["含量描述"], ingredient["含量"], ingredient["含量單位"]].filter(Boolean).join(" ")),
-        potency_class: potency.class,
-        source: "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
+      pushProduct({
+        license,
+        ingredient,
+        ingredientName: ingredientName || license["主成分略述"],
+        otherIngredients,
+        potency,
+        sourceNote: "TFDA 9123 未註銷藥品許可證 + 9121 藥品詳細處方成分；強度由本工具校對表對應"
       });
+    }
+    if (matchedIngredients.length === 0 && clean(license["主成分略述"])) {
+      const fallbackIngredient = {
+        "處方標示": "",
+        "成分名稱": clean(license["主成分略述"]),
+        "含量描述": "",
+        "含量": "",
+        "含量單位": ""
+      };
+      const potency = findPotency(fallbackIngredient["成分名稱"], potencyLookup, fallbackIngredient);
+      if (potency) {
+        pushProduct({
+          license,
+          ingredient: fallbackIngredient,
+          ingredientName: fallbackIngredient["成分名稱"],
+          potency,
+          sourceNote: "TFDA 9123 未註銷藥品許可證主成分略述；9121 詳細成分缺資料，強度由本工具校對表對應"
+        });
+      }
     }
   }
 

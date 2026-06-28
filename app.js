@@ -72,13 +72,40 @@
   }
 
   function searchableText(product) {
+    return searchableFields(product).join(" ");
+  }
+
+  function searchableFields(product) {
     return [
       product.license_no,
       product.name_zh,
       product.name_en,
       product.ingredient,
       ...(product.aliases || [])
-    ].map(normalize).join(" ");
+    ].map(normalize);
+  }
+
+  function isOrderedMatch(needle, haystack) {
+    let position = 0;
+    for (const char of needle) {
+      position = haystack.indexOf(char, position);
+      if (position === -1) {
+        return false;
+      }
+      position += 1;
+    }
+    return true;
+  }
+
+  function productMatches(product, normalizedQuery) {
+    const fields = searchableFields(product);
+    if (fields.join(" ").includes(normalizedQuery)) {
+      return true;
+    }
+    if (!hasCjk(normalizedQuery) || normalizedQuery.length < 2) {
+      return false;
+    }
+    return fields.some((field) => hasCjk(field) && isOrderedMatch(normalizedQuery, field));
   }
 
   function mgPerGram(product) {
@@ -228,10 +255,8 @@
     }
 
     const matches = products
-      .map((product) => ({ product, haystack: searchableText(product) }))
-      .filter(({ haystack }) => haystack.includes(normalized))
-      .slice(0, 30)
-      .map(({ product }) => product);
+      .filter((product) => productMatches(product, normalized))
+      .slice(0, 30);
 
     if (matches.length === 0) {
       renderEmpty("查無符合的外用類固醇資料。若是抗黴菌、抗生素或保濕藥膏，本工具目前不判讀強度。");

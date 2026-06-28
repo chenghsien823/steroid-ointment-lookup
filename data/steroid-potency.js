@@ -41,6 +41,19 @@ window.STEROID_POTENCY = [
     "source": "AAFP 2021 potency table"
   },
   {
+    "ingredient": "desoximetasone",
+    "aliases": [
+      "desoximetasone 0.25",
+      "去氫氧迪皮質醇"
+    ],
+    "min_mg_per_g": 2.4,
+    "max_mg_per_g": 2.6,
+    "class": 2,
+    "label_en": "High",
+    "strength_zh": "強",
+    "source": "AAFP 2021 potency table"
+  },
+  {
     "ingredient": "mometasone furoate",
     "aliases": [
       "mometasone",
